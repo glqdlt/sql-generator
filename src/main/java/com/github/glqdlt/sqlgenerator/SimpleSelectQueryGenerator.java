@@ -1,4 +1,4 @@
-package com.glqdlt.helper.sqlgenerator;
+package com.github.glqdlt.sqlgenerator;
 
 import java.util.Arrays;
 import java.util.LinkedList;
