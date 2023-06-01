@@ -36,3 +36,9 @@ build/
 mvnw
 mvnw.cmd
 .mvn
+
+gradle
+.gradle
+
+gradlew.bat
+gradlew
